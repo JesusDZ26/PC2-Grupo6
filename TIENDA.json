@@ -1,0 +1,69 @@
+{"Tienda": [  
+    {"Laptops":   
+     [    {"Marca":"HP",
+           "Cantidad":10 ,
+           "Precio": "S/ 5,429.00"}
+      ,    
+           {"Marca":"Apple","Cantidad":20, "Precio":"S/ 8,962.00"},    
+           {"Marca":"Lenovo","Cantidad":30 , "Precio":"S/ 7,929.00"} , 
+            {"Marca":"DELL","Cantidad":40 ,"Precio":"S/ 6451.00"} ,
+           {"Marca":"ASUS","Cantidad":35 , "Precio":"S/ 4,2648.00"},
+      {"Marca":"ACER","Cantidad":42 , "Precio":"S/ 3,126.00"},
+      {"Marca":"ADVANCE","Cantidad":35 , "Precio":"S/ 3,126.00"},
+      {"Marca":"LG","Cantidad":28 , "Precio":"S/ 3,126.00"},
+      {"Marca":"TOSHIBA","Cantidad":22 , "Precio":"S/ 3,126.00"},
+      {"Marca":"MSI","Cantidad":65 , "Precio":"S/ 3,126.00"},
+          {"Marca":"HUAWEI","Cantidad":39 , "Precio":"S/ 3,126.00"}]  
+    },  
+    {"celulares":   [    
+        {"Marca":"APPLE","Cantidad":185, "Precio":"S/ 8,929.00"},   
+        {"Marca":"ADVANCE","Cantidad":12 , "Precio":"S/ 8,929.00"},    
+        {"Marca":"ALCATEL","Cantidad":25 ,"Precio":"S/ 8,929.00"},
+        {"Marca":"ALPHA","Cantidad":16, "Precio":"S/ 8,929.00"},
+        {"Marca":"ASUS","Cantidad":6, "Precio":"S/ 8,929.00"},
+        {"Marca":"ALTRON","Cantidad":25, "Precio":"S/ 8,929.00"},
+        {"Marca":"ENTEL","Cantidad":9, "Precio":"S/ 8,929.00"},
+        {"Marca":"XIAOMI","Cantidad":2, "Precio":"S/ 8,929.00"},
+        {"Marca":"HUAWEI","Cantidad":16, "Precio":"S/ 8,929.00"},
+        {"Marca":"HTC","Cantidad":20, "Precio":"S/ 8,929.00"},
+        {"Marca":"SANSUMG","Cantidad":46, "Precio":"S/ 8,929.00"},
+        {"Marca":"CAT","Cantidad":35, "Precio":"S/ 8,929.00"},
+        {"Marca":"BLU","Cantidad":45, "Precio":"S/ 8,929.00"},
+        {"Marca":"NOKIA","Cantidad":51, "Precio":"S/ 8,929.00"},
+        {"Marca":"REALME","Cantidad":2, "Precio":"S/ 8,929.00"},
+        {"Marca":"ONEPLUS","Cantidad":8, "Precio":"S/ 8,929.00"},
+        {"Marca":"SKY","Cantidad":7, "Precio":"S/ 8,929.00"}
+           ]  },
+    {"Smartwatch":   
+     [    {"Marca":"LG","Cantidad":10 ,"Precio":"S/ 5,429.00"},    
+           {"Marca":"APPLE","Cantidad":20, "Precio":"S/ 8,962.00"},    
+           {"Marca":"XIAPMI","Cantidad":30 , "Precio":"S/ 7,929.00"} , 
+            {"Marca":"AMAZFIT","Cantidad":40 ,"Precio":"S/ 6451.00"} ,
+           {"Marca":"SAMSUNG","Cantidad":35 , "Precio":"S/ 4,2648.00"},
+      {"Marca":"HANDS UP","Cantidad":42 , "Precio":"S/ 3,126.00"},
+      {"Marca":"IWO","Cantidad":35 , "Precio":"S/ 3,126.00"},
+      {"Marca":"REALME","Cantidad":28 , "Precio":"S/ 3,126.00"},
+      {"Marca":"ROCKROSE","Cantidad":22 , "Precio":"S/ 3,126.00"}
+      ]  
+    },  
+    {"Tablets":   
+     [    {"Marca":"ALCATEL","Cantidad":10 ,"Precio":"S/ 5,429.00"},    
+           {"Marca":"APPLE","Cantidad":20, "Precio":"S/ 8,962.00"},    
+           {"Marca":"HUAWEI","Cantidad":30 , "Precio":"S/ 7,929.00" } , 
+            {"Marca":"LENOVO","Cantidad":40 ,"Precio":"S/ 6451.00"} ,
+           {"Marca":"SAMSUNG","Cantidad":35 , "Precio":"S/ 4,2648.00"},
+      {"Marca":"WACOM","Cantidad":42 , "Precio":"S/ 3,126.00"},
+      {"Marca":"BLACKLINE","Cantidad":35 , "Precio":"S/ 3,126.00"},
+      {"Marca":"MOSHI","Cantidad":28 , "Precio":"S/ 3,126.00"}
+      
+      ]  
+    } ,
+    {"Cámaras":   
+     [    {"Marca":"ALTRON","Cantidad":1 ,"Precio":"S/ 5,429.00"},    
+           {"Marca":"CANON","Cantidad":20, "Precio":"S/ 8,962.00"},    
+           {"Marca":"XIAOMI","Cantidad":8 , "Precio":"S/ 7,929.00" } , 
+            {"Marca":"HANDS UP","Cantidad":16 ,"Precio":"S/ 6451.00"} ,
+           {"Marca":"NIKON","Cantidad":12 , "Precio":"S/ 4,2648.00"},
+      {"Marca":"DIGITAL CRAZY","Cantidad":12 , "Precio":"S/ 3,126.00"}
+      ]}
+]}
